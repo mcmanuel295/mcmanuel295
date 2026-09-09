@@ -1,103 +1,55 @@
-# Hi there! 👋 I'm Manuel
+<h3 align="center">A passionate Java Backend Developer skilled in building scalable systems and full-stack solutions. Expertise in Spring Boot, microservices architecture, and cloud technologies. Dedicated to continuous learning and solving complex problems.</h3>
 
-<div align="center">
+- **Currently learning**: **Advanced Spring Boot Patterns, Microservices, React, Cloud Deployment**
 
-### Java Backend Developer | Full-Stack Enthusiast | Continuous Learner
+- **Ask me about**: **Backend Development, Spring Boot, Databases, System Design, Java**
 
-I'm a passionate developer with expertise in building scalable backend systems and full-stack applications. With a strong foundation in Java, Spring Boot, and modern web technologies, I create solutions that solve real-world problems.
+- **Resume**: [Manuel's CV](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/preview)
 
-**Currently Learning:** Advanced Spring Boot Patterns, Microservices Architecture, Cloud Deployment
+- **Portfolio**: [My Portfolio](#)
+- **Fun fact**: **I love Jesus.**
 
-**Ask me about:** Backend Development, Spring Boot, Databases, System Design, Frontend Integration
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmanuel295&show_icons=true&locale=en&layout=compact" alt="mcmanuel295" /></p>
 
-## 🛠️ Languages and Tools:
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### Backend Systems
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [BookSocialNetwork](https://github.com/mcmanuel295/BookSocialNetwork) | Social app with library features backend | Spring Boot, MySQL |
-| [BusBookingApp](https://github.com/mcmanuel295/BusBookingApp) | Bus management & booking system | Spring Boot, Java |
-| [HospitalManagementSystem](https://github.com/mcmanuel295/HospitalManagementSystem) | Hospital operations backend | Spring Boot, Database Design |
-| [College-Portal](https://github.com/mcmanuel295/College-Portal) | Educational institution portal | Spring Boot, Java |
-| [OnlineFoodOrderingSystem](https://github.com/mcmanuel295/OnlineFoodOrderingSystem) | Food ordering platform backend | Spring Boot, REST APIs |
-| [Whatsapp-Clone-Project](https://github.com/mcmanuel295/Whatsapp-Clone-Project) | Messaging application backend | Spring Boot, WebSockets |
-
-### Full-Stack Projects
-| Project | Description | Frontend | Backend |
-|---------|-------------|----------|---------|
-| [BusBookingApp-Frontend](https://github.com/mcmanuel295/BusBookingApp-Frontend) | Professional bus booking UI | HTML, CSS, JavaScript | Spring Boot |
-| [HospitalManagementSystem-Frontend](https://github.com/mcmanuel295/HospitalManagementSystem-Frontend) | Hospital management dashboard | HTML, CSS, JavaScript | Spring Boot |
-| [LibraryManagementSystem-Frontend](https://github.com/mcmanuel295/LibraryManagementSystem-Frontend) | Library operations interface | HTML, CSS, JavaScript | Spring Boot |
-
-### Specialty Projects
-| Project | Description | Focus |
-|---------|-------------|-------|
-| [Microservice-Project](https://github.com/mcmanuel295/Microservice-Project) | Mini microservices architecture | System Design |
-| [UrlShortenerApplication](https://github.com/mcmanuel295/UrlShortenerApplication) | URL shortening service | Backend |
-| [EmailResponseGeneration](https://github.com/mcmanuel295/EmailResponseGeneration) | AI-powered email responses | Integration |
-| [QuizProject](https://github.com/mcmanuel295/QuizProject) | Quiz management system | Spring Boot |
-| [MushinChoirProject](https://github.com/mcmanuel295/MushinChoirProject) | Choir training website backend | Community Platform |
-| [DartProject](https://github.com/mcmanuel295/DartProject) | Dart language hands-on projects | Language Learning |
-| [Leetcode-challenge](https://github.com/mcmanuel295/Leetcode-challenge) | Algorithm problem solutions | Problem Solving |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![mcmanuel295's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcmanuel295&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmanuel295&layout=compact&theme=dark)
-
-</div>
-
----
-
-## 🎯 What I Do Best
-
-- **Backend Development:** Designing and building scalable Java/Spring Boot applications
-- **System Architecture:** Creating well-structured solutions for complex problems
-- **Full-Stack Solutions:** Integrating beautiful frontends with robust backends
-- **Database Design:** Architecting efficient data models for various use cases
-- **Problem Solving:** Tackling challenges on platforms like LeetCode
-
----
-
-## 💡 Let's Connect!
-
-<div align="center">
-
-[📧 Email](mailto:your-email@example.com) · [🔗 LinkedIn](#) · [🌐 Portfolio](#) · [📱 Twitter](#)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ If you find my projects useful, please consider giving them a star! It means a lot! ⭐
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcmanuel295&" alt="mcmanuel295" /></p>

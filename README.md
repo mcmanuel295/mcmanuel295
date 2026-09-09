@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Java Backend Developer skilled in building scalable systems and full-stack solutions. Expertise in Spring Boot, microservices architecture, and cloud technologies. Professional experience in Backend Development, System Design, and Database Architecture.</h3>
 
-- **Currently learning**: **Advanced Spring Boot Patterns, Microservices, React, Cloud Deployment**
+- **Currently learning**: **Advanced Spring Boot Patterns, Microservices, Cloud technologies, software engineering**
 
 - **Ask me about**: **Java, Spring Boot, Backend Development, Databases, System Design**
 

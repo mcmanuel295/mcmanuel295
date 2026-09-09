@@ -4,7 +4,7 @@
 
 - **Ask me about**: **Java, Spring Boot, Backend Development, Databases, System Design**
 
-- **Resume**: [Manuel's CV](https://docs.google.com/document/d/your-resume-link/preview)
+- **Resume**: [Mcmanuel's CV](https://docs.google.com/document/d/your-resume-link/preview)
 
 - **Portfolio**: https://your-portfolio.com/
 - **Fun fact**: **I love Jesus.**

@@ -6,7 +6,7 @@
 
 - **Resume**: [Mcmanuel's CV](https://docs.google.com/document/d/your-resume-link/preview)
 
-- **Portfolio**: https://your-portfolio.com/
+- **Portfolio**: [https://your-portfolio.com/](https://vercel.com/mcmanuel755-9259s-projects/~/deployments)
 - **Fun fact**: **I love Jesus.**
 
 
